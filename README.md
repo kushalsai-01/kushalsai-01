@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Kushal Sai 👋</h1>
 
-## About Me
-
 I’m a **3rd Year CS Student** who enjoys building real-world applications and learning how systems work behind the scenes.
 
 - Interested in **backend development and AI**
