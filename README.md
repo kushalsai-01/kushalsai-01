@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kushal Sai 👋</h1>
 
-<!--
-**kushalsai-01/kushalsai-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I’m a **3rd Year CS Student** who enjoys building real-world applications and learning how systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in **backend development and AI**
+- Enjoy working with **APIs, databases, and system design**
+- Like writing **clean, structured, and testable code**
+- Currently learning and building projects using **Go for backend development**
+
+---
+
+### 💻 Skills
+
+**Languages:**  
+Java · Golang · Python · JavaScript · TypeScript  
+
+**Frameworks / Libraries:**  
+React.js · Tailwind CSS · Gin · Node.js · Express.js  
+
+**Databases & Tools:**  
+PostgreSQL · MongoDB · Docker · Git · Postman · GitHub Actions (CI/CD)
+
+---
+
+📍 Bangalore, India  
+📫 **gkushalsai2006@gmail.com**
