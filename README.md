@@ -10,17 +10,14 @@ I’m a **3rd Year CS Student** who enjoys building real-world applications and 
 - Currently learning and building projects using **Go for backend development**
 
 ---
+## Skills
 
-### 💻 Skills
+I work with the following technologies as part of my projects and coursework.
 
-**Languages:**  
-Java · Golang · Python · JavaScript · TypeScript  
+Languages: Java, Golang, Python, JavaScript, TypeScript  
+Frameworks/Libraries: React.js, Tailwind CSS, Gin, Node.js, Express.js  
+Databases & Tools: PostgreSQL, MongoDB, Docker, Git, Postman, GitHub Actions (CI/CD)
 
-**Frameworks / Libraries:**  
-React.js · Tailwind CSS · Gin · Node.js · Express.js  
-
-**Databases & Tools:**  
-PostgreSQL · MongoDB · Docker · Git · Postman · GitHub Actions (CI/CD)
 
 ---
 
