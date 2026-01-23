@@ -19,12 +19,5 @@ I’m a **3rd Year CS Student** who enjoys building real-world applications and 
 📫 **Email:** gkushalsai2006@gmail.com  
 📍 **Location:** Bangalore, India
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kushalsai-01&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kushalsai-01&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsai-01&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=kushalsai-01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
