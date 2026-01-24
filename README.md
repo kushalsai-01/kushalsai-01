@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kushal Sai 👋</h1>
+ <h1 align="center">Hi, I'm Kushal Sai 👋</h1>
 
 I’m a **3rd Year Computer Science student** interested in building **backend applications** and exploring how **AI-powered systems** work in practice.
 
