@@ -45,13 +45,7 @@ I love building real-world projects that combine **clean backend design, modern 
 
 ---
 
-## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalsai-01&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -61,23 +55,31 @@ I love building real-world projects that combine **clean backend design, modern 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kushalsai-01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
 
 ---
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/kushalsai-01/DocSense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=DocSense&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+
+<a href="https://github.com/kushalsai-01/DocSense">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=DocSense&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/kushalsai-01/FinTrack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=FinTrack&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/kushalsai-01/secret-encrypted-vault">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=secret-encrypted-vault&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/kushalsai-01/real-time-encrypted-messenger">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=real-time-encrypted-messenger&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
 </div>
 
----
 
 ## 🤝 Connect With Me
 
