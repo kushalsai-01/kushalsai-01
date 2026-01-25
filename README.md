@@ -19,6 +19,6 @@ I’m a **3rd Year Computer Science student** interested in building **backend a
 📫 **Email:** gkushalsai2006@gmail.com  
 📍 **Location:** Bangalore, India
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsai-01&theme=dark&hide_border=true&layout=compact)
+ <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsai-01&theme=dark&hide_border=true&layout=compact)-->
 
 
