@@ -1,10 +1,13 @@
 <h1 align="center">Hi there, I'm Kushal Sai 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Backend+%26+AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Open+Source+Contributor;Full+Stack+%26+AI+Developer;Backend+Engineering+Enthusiast" 
+    alt="Typing SVG" 
+  />
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -25,11 +28,10 @@ I love building real-world projects that combine **clean backend design, modern 
 ### 💻 Languages
 ![Languages](https://skillicons.dev/icons?i=java,go,python,javascript,typescript&theme=dark)
 
-### 🎨 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,tailwind&theme=dark)
+## 🧩 Frameworks
 
-### ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,gin&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,gin&theme=dark)
+
 
 ### 🗄️ Databases & Tools
 ![Tools](https://skillicons.dev/icons?i=postgres,mongodb,docker,git,postman,githubactions&theme=dark)
@@ -52,9 +54,6 @@ I love building real-world projects that combine **clean backend design, modern 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalsai-01&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
-
----
-
 
 ---
 
