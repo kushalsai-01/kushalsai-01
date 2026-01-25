@@ -19,7 +19,7 @@ I'm a **Full Stack Developer** with a strong interest in **AI-powered systems** 
 I love building real-world projects that combine **clean backend design, modern frontend, and AI**.
 
 - 🔭 Currently working on **DocSense** — an AI-powered document assistant  
-- 🌱 Currently learning **Generative AI & Agentic AI**
+- 🌱 Currently learning **Generative AI**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Backend, APIs, Databases, Full Stack**
 - 📫 Reach me at **gkushalsai2006@gmail.com**
