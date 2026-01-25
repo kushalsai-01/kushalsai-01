@@ -6,6 +6,10 @@
     alt="Typing SVG" 
   />
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</div>
+
 
 
 
@@ -61,23 +65,60 @@ I love building real-world projects that combine **clean backend design, modern 
 
 <div align="center">
 
-<a href="https://github.com/kushalsai-01/DocSense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=DocSense&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/kushalsai-01/FinTrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=FinTrack&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+### 🚀 <span style="color:#58A6FF">DocSense</span>
+AI-powered document assistant using **RAG**, Go backend, vector search, and secure document-grounded Q&A.  
 
-<a href="https://github.com/kushalsai-01/secret-encrypted-vault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=secret-encrypted-vault&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+**Tech:** Go · TypeScript · GenAI · Vector DBs  
 
-<a href="https://github.com/kushalsai-01/real-time-encrypted-messenger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushalsai-01&repo=real-time-encrypted-messenger&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+🔗 <a href="https://github.com/kushalsai-01/DocSense"><b>View Repository →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 <span style="color:#F1E05A">FinTrack</span>
+Personal finance intelligence platform with **MERN + Python ML** microservice for transaction categorization and insights.  
+
+**Tech:** MERN · Python · ML  
+
+🔗 <a href="https://github.com/kushalsai-01/FinTrack"><b>View Repository →</b></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 <span style="color:#C586C0">Secret Encrypted Vault</span>
+Zero-knowledge encrypted vault with **AES-256-GCM**, client-side encryption, and memory-only key handling.  
+
+**Tech:** TypeScript · Cryptography  
+
+🔗 <a href="https://github.com/kushalsai-01/secret-encrypted-vault"><b>View Repository →</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💬 <span style="color:#61DAFB">Real-Time Encrypted Messenger</span>
+End-to-end encrypted chat with **JWT auth**, ECDH P-384 key exchange, and per-conversation encryption.  
+
+**Tech:** TypeScript · WebSockets · Security  
+
+🔗 <a href="https://github.com/kushalsai-01/real-time-encrypted-messenger"><b>View Repository →</b></a>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+
+
 
 
 ## 🤝 Connect With Me
