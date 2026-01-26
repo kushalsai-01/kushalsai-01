@@ -39,6 +39,27 @@ I love building real-world projects that combine **clean backend design, modern 
 ### 🗄️ Databases & Tools
 ![Tools](https://skillicons.dev/icons?i=postgres,mongodb,docker,git,postman,githubactions&theme=dark)
 
+### 🤖 AI 
+
+<div align="left" style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
+
+  <!-- Core ML/DL -->
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48"/>
+
+  <!-- GenAI / Agentic -->
+  <img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pipelines-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agents-7B3FE4?style=for-the-badge"/>
+
+</div>
+
+
+
+
 
 ## 📊 GitHub Stats
 
