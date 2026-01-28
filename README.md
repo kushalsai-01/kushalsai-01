@@ -49,11 +49,17 @@ I love building real-world projects that combine **clean backend design, modern 
   <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48"/>
 
   <!-- GenAI / Agentic -->
-  <img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pipelines-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agents-7B3FE4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-7B3FE4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Pipelines-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agent%20Orchestration-9932CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0466C8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF8C00?style=for-the-badge"/>
+
+
 
 </div>
 
