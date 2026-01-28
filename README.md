@@ -33,7 +33,8 @@ I love building real-world projects that combine **clean backend design, modern 
 
 ## 🧩 Frameworks
 
-![Frameworks](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,gin&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,fastapi&theme=dark)
+
 
 
 ### 🗄️ Databases & Tools
