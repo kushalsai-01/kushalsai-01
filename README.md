@@ -26,7 +26,7 @@ I love building real-world projects that combine **clean backend design, modern 
 - ⚡ Fun fact: I enjoy turning complex systems into simple, usable products
 
 
-## 🛠️ Tech  Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 ![Languages](https://skillicons.dev/icons?i=java,go,python,javascript,typescript&theme=dark)
