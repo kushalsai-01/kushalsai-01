@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Kushal Sai 👋</h1>
 
-## 🚀 About Me
-
 I'm a **Full Stack Developer** focused on building **scalable backend systems** and **AI-powered applications**.  
 I enjoy working close to real-world problems—designing clean APIs, reliable data flows, and practical AI solutions.
 
