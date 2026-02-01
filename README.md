@@ -6,7 +6,6 @@
     alt="Typing SVG" 
   />
 </div>
-
 <br />
 
 ## 🚀 About Me
