@@ -20,7 +20,6 @@ I enjoy working close to real-world problems—designing clean APIs, reliable da
 - 💬 Ask me about **Backend Engineering, APIs, Databases, Full Stack**
 - 📫 Reach me at **gkushalsai2006@gmail.com**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -72,7 +71,6 @@ I enjoy working close to real-world problems—designing clean APIs, reliable da
 
 </div>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kushalsai-01&label=Profile%20Views&color=0e75b6&style=flat" />
