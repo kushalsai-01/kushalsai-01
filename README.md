@@ -1,92 +1,78 @@
-<h1 align="center">Hi there, I'm Kushal Sai 👋</h1>
+<h1 align="center">Hi, I'm Kushal Sai 👋</h1>
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Developer;Backend+Engineering+Enthusiast" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Backend+Engineering"
     alt="Typing SVG" 
   />
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</div>
 
-
-
+<br />
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with a strong interest in **AI-powered systems** and scalable architectures.  
-I love building real-world projects that combine **clean backend design, modern frontend, and AI**.
+I'm a **Full Stack Developer** focused on building **scalable backend systems** and **AI-powered applications**.  
+I enjoy working close to real-world problems—designing clean APIs, reliable data flows, and practical AI solutions.
 
-- 🔭 Currently working on **DocSense**   
-- 🌱 Currently learning **Generative AI**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Backend, APIs, Databases, Full Stack**
+- 🔭 Currently building **DocSense** — an AI-powered document intelligence system  
+- 🌱 Learning **Generative AI & LLM system design**
+- 👯 Open to collaborating on **open-source backend & AI projects**
+- 💬 Ask me about **Backend Engineering, APIs, Databases, Full Stack**
 - 📫 Reach me at **gkushalsai2006@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex systems into simple, usable products
 
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=java,go,python,javascript,typescript&theme=dark)
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge"/>
+</div>
 
-## 🧩 Frameworks
-
-![Frameworks](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,fastapi&theme=dark)
 
 
+### 🧩 Frameworks & Libraries
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+</div>
 
-### 🗄️ Databases & Tools
-![Tools](https://skillicons.dev/icons?i=postgres,mongodb,docker,git,postman,githubactions&theme=dark)
 
-### 🤖 AI 
 
-<div align="left" style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
+### 🗄️ Databases & DevOps
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge"/>
+</div>
+
+
+
+### 🤖 AI & ML
+
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7B3FE4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector%20Databases-FF1493?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Pipelines-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Evaluation-228B22?style=for-the-badge"/>
-
-
-
 
 </div>
 
-
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushalsai-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsai-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
-</div>
-
-
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalsai-01&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</div>
-
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kushalsai-01&label=Profile%20Views&color=0e75b6&style=flat" />
