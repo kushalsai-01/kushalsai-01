@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** focused on building **scalable backend systems** 
 I enjoy working close to real-world problems—designing clean APIs, reliable data flows, and practical AI solutions.
 
 - 🔭 Currently building **DocSense** 
-- 🌱 Learning **Generative AI**
+- 🌱 Learning **Deep Learning & Generative AI**
 - 👯 Open to collaborating on **open-source backend & AI projects**
 - 💬 Ask me about **Backend Engineering, APIs, Databases, Full Stack**
 - 📫 Reach me at **gkushalsai2006@gmail.com**
