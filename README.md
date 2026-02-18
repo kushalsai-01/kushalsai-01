@@ -6,7 +6,7 @@ I enjoy working close to real-world problems—designing clean APIs, reliable da
 - 🔭 Currently building **Nexus-financial-agent(Multi agent project)** 
 - 🌱 Learning **Generative AI &Agentic AI**
 - 👯 Open to collaborating on **open-source backend & AI projects**
-- 💬 Ask me about **Backend Engineering, APIs, Databases, Full Stack**
+- 💬 Ask me about **AI, Backend Engineering, APIs, Databases**
 - 📫 Reach me at **gkushalsai2006@gmail.com**
 
 
