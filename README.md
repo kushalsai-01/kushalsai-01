@@ -1,30 +1,15 @@
 <h1 align="center">Hi, I'm Kushal Sai 👋</h1>
 
 <p align="center">
-<b>AI Enthusiast · Full Stack Developer · Builder</b>
+<b>AI  · Full Stack Developer · Builder</b>
 </p>
 
-<p align="center">
-🎓 Third year B.E. CSE (Data Science) — DSCE Bangalore  
-</p>
+- 🎓 B.E. CSE (Data Science) student at DSCE Bangalore  
+- 🤖 Building AI-powered applications with **Agentic AI, LLM fine-tuning, and production ML pipelines**  
+- 🧪 Fine-tuning **DeepSeek-Coder-6.7B** with QLoRA on security datasets for intelligent code analysis  
+- 🔌 Exploring **MCP Protocol** to expose fine-tuned models as reusable AI tools across multiple projects  
+- 📐 Researching **transformer internals, GNNs on AST graphs, and LangGraph-based multi-agent systems**
 
-<p align="center">
-🤖 Building AI-powered applications with <b>Agentic AI, LLM fine-tuning, and production ML pipelines</b>
-</p>
-
-<p align="center">
-🧪 Fine-tuning <b>DeepSeek-Coder-6.7B</b> with QLoRA on security datasets for intelligent code analysis
-</p>
-
-<p align="center">
-🔌 Exploring <b>MCP Protocol</b> to expose fine-tuned models as reusable AI tools across multiple projects
-</p>
-
-<p align="center">
-📐 Researching <b>transformer internals, GNNs on AST graphs, and LangGraph-based multi-agent systems</b>
-</p>
-
-<br/>
 
 <p align="center">
   <a href="mailto:gkushalsai2006@gmail.com">
