@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Kushal Sai 👋</h1>
 
-<p align="center">
-<b>AI  · Full Stack Developer · Builder</b>
-</p>
 
 - 🎓 B.E. CSE (Data Science) student at DSCE Bangalore  
 - 🤖 Building AI-powered applications with **Agentic AI, LLM fine-tuning, and production ML pipelines**  
